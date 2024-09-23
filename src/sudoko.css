@@ -1,0 +1,67 @@
+.form1{
+    top:20px;
+    left:30%;
+  
+  }
+  table{
+  
+  margin: 20px;
+  }
+  tr{
+      padding:20px;
+      border:2px solid black;
+  }
+  td{
+    padding: 1px;
+  }
+  input{
+     width:35px;
+     height:35px;
+     font-size:30px;
+     text-align:center;
+     color:red;
+  }
+  button{
+  display: inline-block;
+  width:70px;
+  height: 30px;
+  background-color: aqua;
+  color:black;
+  }
+  .btn{
+    display: inline-block;
+    width:100px;
+    height: 80px;
+  top:90%;
+    left:50%;
+    position:absolute;
+    }
+    h5{
+      color:red;
+    }
+    .container{
+      display: none;
+    }
+  
+   
+  .details{
+  
+    width: 200px;
+    height:150px;
+    border:2px double rgb(208, 216, 226);
+    padding:20px;
+    margin-left:30%;
+    margin-bottom:20px;
+    display: none;
+  
+  
+  }
+  .details input{
+     width:100px;
+     margin-left:20px;
+     margin-bottom: 20px;
+  }
+  .details button{
+
+    margin-left:50px;
+  }
